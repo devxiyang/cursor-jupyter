@@ -27,3 +27,4 @@ ENV/
 env/
 .env
 .venv
+.environment
